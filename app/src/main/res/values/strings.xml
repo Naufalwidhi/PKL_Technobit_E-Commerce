@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">E-Commerce</string>
+
+    <!-- LOGIN -->
     <string name="Email">E-Mail</string>
     <string name="Password">Password</string>
     <string name="Login">Login</string>
@@ -10,5 +12,9 @@
     <string name="image_logo">Image Logo</string>
     <string name="atau">ATAU</string>
     <string name="no_akun">Tidak Punya Akun?</string>
+
+    <!-- REGISTER -->
+    <string name="nama">Nama</string>
+    <string name="confirm_password">Confirm Password</string>
 
 </resources>
