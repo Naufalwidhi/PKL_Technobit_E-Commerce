@@ -1,7 +1,8 @@
-package com.technobit.e_commerce
+package com.technobit.e_commerce.Activity.Authentication
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.technobit.e_commerce.R
 
 class RegisterActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -2,19 +2,29 @@
     <string name="app_name">E-Commerce</string>
 
     <!-- LOGIN -->
-    <string name="Email">E-Mail</string>
+    <string name="Email">E mail</string>
     <string name="Password">Password</string>
     <string name="Login">Login</string>
     <string name="Register">Register</string>
+    <string name="signup">Sign Up</string>
     <string name="Google">Google</string>
     <string name="Facebook">Facebook</string>
     <string name="Reset_Password">Reset Password</string>
+    <string name="forgot_Password">Forgot Password</string>
     <string name="image_logo">Image Logo</string>
     <string name="atau">ATAU</string>
     <string name="no_akun">Tidak Punya Akun?</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="missed_u">You have been missed!</string>
 
     <!-- REGISTER -->
     <string name="nama">Nama</string>
     <string name="confirm_password">Confirm Password</string>
+
+    <!-- MAIN -->
+    <string name="welcome">WELCOME</string>
+    <string name="title_main">Kiospedia Toko Online Terpercaya.</string>
+    <string name="random_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</string>
+
 
 </resources>
